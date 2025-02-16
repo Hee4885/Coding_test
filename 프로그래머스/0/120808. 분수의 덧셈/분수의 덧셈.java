@@ -6,6 +6,7 @@ class Solution {
         numer2 *= (denomTemp/denom2);
         int numerTemp = numer1 + numer2;
         
+        //기약분수로 만들기
         int lastGCD = gcd(numerTemp,denomTemp);
         
         denomTemp /= lastGCD;
