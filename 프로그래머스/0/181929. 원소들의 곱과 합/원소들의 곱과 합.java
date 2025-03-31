@@ -8,11 +8,8 @@ class Solution {
         mul *= num_list[i];
     }
     sum = Math.pow(sum,2);
+    answer = (mul<sum)? 1 : 0;
         
-    if(mul<sum){
-        return answer = 1;
-    } else {
-        return answer; 
-        }
+    return answer;
     }
 }
