@@ -1,2 +1,11 @@
 # Coding_test
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+Baekjoon과 프로그래머스에 제출한 개인 알고리즘 풀이 모음입니다. BaekjoonHub로 자동 푸시된 형태로, 문제별로 폴더(문제번호/문제명)가 나뉘어 있고 각 폴더에 제출 메타(문제 링크, 성능 요약 등)와 코드가 포함되어 있습니다.
+
+주요 구조
+- 백준/             — Baekjoon 문제 풀이 (난이도별/문제별 폴더)
+- 프로그래머스/      — 프로그래머스 문제 풀이 (레벨/문제별 폴더)
+- README.md         — 리포지토리 설명
+
+언어
+- Java, Python, JavaScript 등(문제별로 혼합)
